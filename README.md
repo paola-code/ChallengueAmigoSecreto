@@ -24,6 +24,8 @@
    ```
 3. Abrir el archivo en un navegador o correr la aplicación según el entorno utilizado.
 
+4. Puedes ver la aplicación aquí https://paola-code.github.io/ChallengueAmigoSecreto/
+
 ## Tecnologías Utilizadas
 - HTML, CSS y JavaScript
 
